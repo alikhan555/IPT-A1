@@ -1,0 +1,30 @@
+.navbar-brand{
+    padding-left: 100px;
+    padding-right: 50px;
+}
+
+#navbar{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    width: 100%;
+}
+
+.serviceItem{
+    margin-bottom: 50px;
+}
+
+
+
+#ContactUs{
+    height: 100%;
+    background-color: #343A40;
+    align-content: center;
+
+    padding-left: 35%;
+    padding-right: 35%;
+
+    padding-top: 5%;
+}
